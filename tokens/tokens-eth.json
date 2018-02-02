@@ -4927,6 +4927,38 @@
   "youtube"   : ""
 }
 },{
+"symbol" : "FLUZ",
+"address" : "0x954b5de09a55e59755acbda29e1eb74a45d30175",
+"decimals" : "18",
+"name" : "FluzFluz",
+"ens_address" : "",
+"website" : "https://ico.fluzfluz.com",
+"logo": {
+"src" : "https://i.imgur.com/vGHxFgV.png",
+"width" : "256",
+"height" : "256",
+"ipfs_hash" : ""
+},
+"support": {
+"email" : "ico@fluzfluz.com",
+"url" : ""
+},
+"social": {
+"blog" : "https://medium.com/@fluzfluz",
+"chat" : "",
+"facebook" : "https://www.facebook.com/fluzfluzglobal",
+"forum" : "https://bitcointalk.org/index.php?topic=2379960.0",
+"github" : "https://github.com/FluzFluz",
+"gitter" : "",
+"instagram" : "https://www.instagram.com/fluzfluzglobal/",
+"linkedin" : "https://www.linkedin.com/company/18321467/",
+"reddit" : "https://www.reddit.com/r/FluzFluzGlobal/",
+"slack" : "",
+"telegram" : "https://t.me/fluzfluzico",
+"twitter" : "https://twitter.com/FluzFluzGlobal",
+"youtube" : "https://www.youtube.com/channel/UCaM314EU0AYiB6kHpra72Yg"
+}
+},{
 "symbol"      : "FRD",
 "address"     : "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
 "decimals"    : "18",
